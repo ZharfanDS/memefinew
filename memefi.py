@@ -1,4 +1,3 @@
-import requests
 import http.client
 import asyncio
 import json
